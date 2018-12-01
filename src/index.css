@@ -1,0 +1,10 @@
+* {
+  font-family: 'Luckiest Guy', cursive;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: auto;
+}
