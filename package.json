@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "description": "Remember That Pokemon! is a simple memory game built with React and styled with Bootstrap CSS.",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "yarn start",
-      "heroku-prebuild": "npm install",
-      "heroku-postbuild": "npm start"
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
     },
     "repository": {
       "type": "git",
