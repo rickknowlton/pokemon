@@ -1,31 +1,36 @@
 {
-    "name": "pokemon",
-    "version": "1.0.0",
-    "description": "Remember That Pokemon! is a simple memory game built with React and styled with Bootstrap CSS.",
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "test": "react-scripts test --env=jsdom",
-        "eject": "react-scripts eject"
-    },
-    "repository": {
-      "type": "git",
-      "repository": "https://github.com/rickknowlton/pokemon.git"
-    },
-    "keywords": [
-      "React",
-      "Bootstrap"
-    ],
-    "author": "Rick Knowlton",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/rickknowlton/pokemon/issues"
-    },
-    "homepage": "https://github.com/rickknowlton/pokemon#readme",
-    "dependencies": {
-        "react": "^16.6.3",
-        "react-dom": "^16.6.3",
-        "react-scripts": "2.1.1"
-    }
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "Remember That Pokemon! is a simple memory game built with React and styled with Bootstrap CSS.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/rickknowlton/pokemon.git"
+  },
+  "keywords": [
+    "React",
+    "Bootstrap"
+  ],
+  "author": "Rick Knowlton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickknowlton/pokemon/issues"
+  },
+  "homepage": "https://github.com/rickknowlton/pokemon#readme",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
-  
